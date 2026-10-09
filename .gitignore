@@ -1,0 +1,3 @@
+# Ignore temporary log files if created locally
+*.json
+!P06-WEB-DUMMY*.json
